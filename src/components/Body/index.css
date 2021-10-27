@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.body-container {
+  display: flex;
+  width: 90%;
+}
+
+.ad-container {
+  height: 100px;
+  width: 100px;
+  border: 1px solid #64748b;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+}
+
+.content-container {
+  background-color: #f1f5f9;
+  padding: 20px;
+  margin: 10px;
+}
+
+.navbar-container {
+  background-color: #e2e8f0;
+  width: 30%;
+  padding: 20px;
+  margin: 10px;
+}
+
+.navbar-heading {
+  font-family: Roboto;
+  font-size: 24px;
+}
